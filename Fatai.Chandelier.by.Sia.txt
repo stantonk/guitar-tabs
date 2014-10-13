@@ -173,12 +173,19 @@ A|----
 E|----
 
 
+But I'm holding on for dear life part, starting around 1:52:
+(relative to capo)
+cmaj7, bmin7 (b♭min7), amin7, gmaj7, the quickly, amin7, bmin
+repeat 2x
+
+then this part happens:
+
 break down
-e|----6---5---3----
+e|----6---5---x----
 B|----8---6---3----
 G|----6---5---4----
-D|----8---7---5----
-A|----6---5---5----
+D|----8---7---4----
+A|----6---5---x----
 E|----x---x---3----
 
 1 2 3 drink, slappin the guitar part
